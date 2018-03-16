@@ -8,6 +8,14 @@
 \description{
 What the package does (one paragraph).
 }
+\seealso{
+Useful links:
+\itemize{
+  \item \url{https://github.com/jaymon0703/iemand}
+  \item Report bugs at \url{https://github.com/jaymon0703/iemand/issues}
+}
+
+}
 \author{
 \strong{Maintainer}: Jasen Mackie \email{jaymon0703@gmail.com}
 
