@@ -15,3 +15,5 @@ Suggests:
 Imports: 
     praise,
     magrittr
+URL: https://github.com/jaymon0703/iemand
+BugReports: https://github.com/jaymon0703/iemand/issues
